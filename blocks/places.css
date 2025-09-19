@@ -80,6 +80,7 @@
   line-height: 100%;
   color: #ffffff;
   margin: 0px;
+  box-shadow: 5px 5px 10px 0px #00000040;
 }
 .places__button:hover {
   background: linear-gradient(
